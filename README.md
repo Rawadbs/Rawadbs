@@ -7,7 +7,6 @@ I'm **Rawad Bin Siddeq**, a passionate **Flutter Developer**. I love creating be
 I'm a Flutter developer with experience in building cross-platform applications. Based in an undisclosed location, I am dedicated to continuous learning and growth in the tech industry.
 
 ## Top Projects
-## Top Projects
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.rawad.bandora&pli=1" target="_blank">
@@ -50,6 +49,7 @@ I'm a Flutter developer with experience in building cross-platform applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
 ## Connect with Me
 
 <p align="left">
