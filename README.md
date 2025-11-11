@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&fontSize=36&width=1500&lines=I'm+Rawad+Bin+Siddeq%0AFlutter+Developer💙%0ABuilding+beautiful+and+efficient+apps+that+enhance+user+experience🚀&repeat=false" alt="Typing SVG" />
-</p>
+# 👋Hi, I'm Rawad Bin Siddeq
+### Flutter Developer 💙
+Building beautiful and efficient apps that enhance user experience 🚀
+
 
 ---
 
@@ -71,14 +72,15 @@ Based in an undisclosed location 🌍, I am committed to continuous learning and
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rawad-bin-siddeq-127a5326b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&labelWidth=120" />
   </a>
   <a href="https://x.com/rwd_bs" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&logoWidth=40&labelWidth=80" />
   </a>
   <a href="https://github.com/Rawadbs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40&labelWidth=100" />
   </a>
 </p>
+
