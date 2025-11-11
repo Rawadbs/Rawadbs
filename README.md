@@ -38,11 +38,6 @@ I'm a Flutter developer with experience in building cross-platform applications.
 
 flutter,dart,html,css,nodejs,git,github,js
 
-## GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawadbs&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 <p align="left">
