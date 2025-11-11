@@ -26,7 +26,7 @@ I'm a Flutter developer with experience in building cross-platform applications.
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.rawad.bandora&pli=1" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/placeholder-bandora" alt="Bandora App" width="100"/>
+    <img src="https://play-lh.googleusercontent.com/VCe6gJROpzNjds8G9qyJVWGTagYRl8E7aRYr8NJnTypdBPxp4W_S4kTEzEjGGuC1Quc=w240-h480-rw" alt="Bandora App" width="100"/>
   </a>
   <br/>
   <b>Bandora App</b><br/>
@@ -38,7 +38,7 @@ I'm a Flutter developer with experience in building cross-platform applications.
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.rawad.tasbeh_app" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/placeholder-tasbeh" alt="Tasbeh App" width="100"/>
+    <img src="https://play-lh.googleusercontent.com/Kvk7QF0KhvVY9aQymV7CD2R7uQrJhbCHLsIu2GQr-DU4SzAz7k5suoU-iB2a7L4j5FYP=w240-h480-rw" alt="Tasbeh App" width="100"/>
   </a>
   <br/>
   <b>Tasbeh App</b><br/>
