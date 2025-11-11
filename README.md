@@ -1,11 +1,6 @@
-<!-- Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C9A7&height=120&section=header&text=Welcome!%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=I'm+Rawad+Bin+Siddeq;Flutter+Developer+💙;Building+beautiful+and+efficient+apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&fontSize=36&width=1500&lines=I'm+Rawad+Bin+Siddeq%0AFlutter+Developer💙%0ABuilding+beautiful+and+efficient+apps+that+enhance+user+experience🚀&repeat=false" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
@@ -33,7 +28,7 @@ Based in an undisclosed location 🌍, I am committed to continuous learning and
 
 ## 🚀 Top Projects
 
-###  **Bandora App**
+### **Bandora App**
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.rawad.bandora&pli=1" target="_blank">
     <img src="https://play-lh.googleusercontent.com/VCe6gJROpzNjds8G9qyJVWGTagYRl8E7aRYr8NJnTypdBPxp4W_S4kTEzEjGGuC1Quc=w240-h480-rw" alt="Bandora App" width="120" style="border-radius:20px;"/>
@@ -47,7 +42,7 @@ Based in an undisclosed location 🌍, I am committed to continuous learning and
 
 ---
 
-###  **Tasbeh App**
+### **Tasbeh App**
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.rawad.tasbeh_app" target="_blank">
     <img src="https://play-lh.googleusercontent.com/Kvk7QF0KhvVY9aQymV7CD2R7uQrJhbCHLsIu2GQr-DU4SzAz7k5suoU-iB2a7L4j5FYP=w240-h480-rw" alt="Tasbeh App" width="120" style="border-radius:20px;"/>
@@ -87,8 +82,3 @@ Based in an undisclosed location 🌍, I am committed to continuous learning and
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077FF&height=100&section=footer"/>
